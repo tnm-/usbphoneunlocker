@@ -9,3 +9,5 @@ by checkin every 3 seconds for connected usb-devices and filters for a specific 
 You have to modify the script to your own device. I don't plan to make this script more flexible, I might do an autosetup script, but it's not a priority for me. You also have to make sure the script is launched upon session start (add it to bash.rc for example).
 
 Obviously this isn't a production quality software, this is just quick solution to a problem I ran into and copy-pasted (and edited) already available scripts found on the net.
+
+
